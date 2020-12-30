@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Rahul Rajkumar</title>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, accent, , Rahul Rajkumar, jekyll">
-    <meta name="author" content="">
-    
-    
-    
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="alternate" type="application/rss+xml" title="Rahul Rajkumar RSS" href="/feed.xml" />
-    <link rel="stylesheet" href="/css/main.css">
-    
-    
-    <!-- Facebook Open Graph -->
-    <meta name="og:description" content="">
-    <meta name="og:title" content="Rahul Rajkumar">
-    <meta name="og:url" content="https://rahulrajkumar.github.io//">
-    <meta name="og:type" content="article">
-    
-    
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Rahul Rajkumar">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:url" content="https://rahulrajkumar.github.io//">
-    
-        <meta name="twitter:image" content="">
-    
-</head>
-<body>
-    <div class="wrapper">
-        <div class="navbar container">
-            
-	    <a id="author-name" class="alignable pull-left" href="">Rahul Rajkumar</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                
-                    
-                        <li class="alignable pull-left nav-list"><a href="cv.pdf">CV</a>
-                    
-                    
-                        </li>
-                
-            </ul>
-        </div>
-        <div style="clear:both"></div>
-        <hr>
-        
-            <div class="container content">
-        
-                <h2 id="about-me">About Me</h2>
+I"É<h2 id="about-me">About Me</h2>
 
 <p>I earned my Bachelor of Arts in Mathematics at NYU in May 2020. I am currently a first-year Ph.D. student in the UC Riverside Department of Mathematics. Outside of mathematics I enjoy playing saxophone in concert bands and small ensembles, cooking, and reading speculative fiction.</p>
 
@@ -88,10 +35,4 @@
 </ul>
 
 <p>My office hours will be held over Zoom, times TBA.</p>
-
-                
-            </div>
-    </div>
-</body>
-<footer>
-</footer>
+:ET
